@@ -1,5 +1,5 @@
 {
-"name": "docker-ubuntu-dai",
+"name": "docker-ubuntudai",
 "private": false,
 "version": "1.0",
 "description": "Imagen con paquetes y herramientas necesarias para el desarrollo de aplicaciones web (DAI)",
