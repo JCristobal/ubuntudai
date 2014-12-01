@@ -1,0 +1,7 @@
+{
+"name": "docker-ubuntu-dai",
+"private": false,
+"version": "1.0",
+"description": "Imagen con paquetes y herramientas necesarias para el desarrollo de aplicaciones web (DAI)",
+"author": "J. Cristóbal López <tobas92@gmail.com>",
+}
