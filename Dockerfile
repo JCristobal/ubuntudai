@@ -10,4 +10,3 @@ RUN easy_install web.py
 RUN easy_install mako
 RUN easy_install pymongo
 RUN easy_install feedparser
-RUN easy_install tweepy
